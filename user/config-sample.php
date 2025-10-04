@@ -89,3 +89,4 @@ $yourls_reserved_URL = [
 /*
  ** Personal settings would go after here.
  */
+define( 'YOURLS_LANG', 'zh_TW' );
